@@ -5,7 +5,7 @@
 # developer token see:                                                                   #
 # https://developers.google.com/google-ads/api/docs/first-call/dev-token                 #
 ##########################################################################################
-developer_token: n8Mja9pAul7hCukulEXjSw
+developer_token: []
 
 # Use proto plus
 ##########################################################################################
@@ -23,13 +23,13 @@ use_proto_plus: True
 # OAuth2 flow. For more information on authenticating with OAuth2 see:                   #
 # https://developers.google.com/google-ads/api/docs/oauth/overview                       #
 ##########################################################################################
-client_id: 24277521665-jf5nd1skb32p75m7gcufostr5vetlmkd.apps.googleusercontent.com
-client_secret: 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
-refresh_token: 1//0eTHypJR4CKElCgYIARAAGA4SNwF-L9IrlD5GplQ0cadYooumsNR1NGMoLjBhU-VHGEJI-6dE4_Of3CyGgsOul_sLDiDBRsnTIEY
+client_id: []
+client_secret: []
+refresh_token: []
 
 #service account
-#json_key_file_path: C:\Users\chienchenghung\Desktop\tutorabc-342907-0fd5b080c0a7.json
-#impersonated_email: md-bi-api@tutorabc-342907.iam.gserviceaccount.com
+#json_key_file_path: []
+#impersonated_email: []
 
 # Service Account configuration
 ##########################################################################################
@@ -51,7 +51,7 @@ refresh_token: 1//0eTHypJR4CKElCgYIARAAGA4SNwF-L9IrlD5GplQ0cadYooumsNR1NGMoLjBhU
 # also specify this later in code if your application uses multiple manager account +    #
 # OAuth pairs.                                                                           #
 ##########################################################################################
-login_customer_id: 7228960290
+login_customer_id: []
 
 # Logging configuration
 ##########################################################################################

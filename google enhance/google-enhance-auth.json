@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "boxwood-bliss-378006",
-  "private_key_id": "18bd4781948e72ade8aaabb67c3b9473286d49a9",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjOEpboibRzF4L\nB30LHaAwv5Yg7pFElbJAvXa4syabcJyhA4cd70eHCZ8DltqsQDmB76cee//+h0pL\ncJ69BwkiEt2cAZK3m4YC64LygzTIF9qDbC5zwJb+7scvwsykuOIphrcXeCWRn9jz\nEJ3xRK8um42Jruc4H3T1mb2S8cscYgKvUwf0p9N3SbOQq4XwxWZlvNgfMGrVvs2P\niaeLl2pGHquKckWy1yMBRsJ0StebVkRQcaGrqO9WH54QgFdgo9X+5KVz2i3QCgCd\nOT62tTMH9xboYqu4r6iUhVWbJdazcr9/QlRMhc4KFyh5Eu/TuHyitWxgDSIlwcjF\ns9aH1A7dAgMBAAECggEACn4S4aMh5bjCjujzU+SaqKeYShOsCQGqjNjhKexyXem2\nV+93HyiDq52luEBZXFtglwbF8oK8KSufTgw2WCZ8otEdp+q9+MmpqsRjDZ37paVK\n6cnpjo1h54+IBHz8VNaBy3Oaj4qst5jUBIQb8yecL13WknRI7uWuyh8Q/cJHcVKN\nTplY+JEER6dsWF9eKFWGfcobJkedU235PMOD2qiGRc7NI8DmMaCmpQVnt7PC8Fg5\nEzYidfJ507taG2E/C2R3ALj8Jl5h2caXC5Q/oOVBLXjlq3KG8ucXoBDhLn6Uu9Aq\naSlaxjD463E4to/sxfBUvPJHkY9kcIGYclEqtHbL7QKBgQDZhYrNt8arqoxXgp21\nF87W7PP1YGNe46MNif77G6eF3YnzcsvP5TPweKHDz6m58SrsVNOEbRuqFLC8QrsJ\nxIhGlgsUiFMCuC5M4wCl/vnbcbyCdIx8dFI+7c7sqQjPchfeiD2gt5sGu68NArAK\nuG9G+AxU40mxibEkg90qggYVvwKBgQDAF7IDjh9EEz6LZxdS1yjSuAEJH/o377hr\nsl7TMcCPn0OpqFPieoV3lPoFE9wUPWQxja6pe77OoY0nB9cFQu97aB8WlHsvNy+R\nUxYR33qQHT4YeO3MQYGoKwbJPARnqg7ZWXiFq+bC5/MQ14J41TfpVG9VmSSKj+j3\nJR7bzkvaYwKBgEDC+ah15riFdnM3eCzKgdKLibask+lUbN9DDp9EhIPeiYvpybSD\n0QrvX3olAatSmizytGbg9TOWJWhnlbg6wzgAxBvA2rYcj+xkSXUijNFA85cDjDAh\nkbsaoljjmrPojCK8/Vw0TfubNWryOed3Meo3P7SmVvJ8xDjS6a4WOCmRAoGAJhbM\nun2831+9gCDR9CArvRS1R9zqXZsQA3Lb8J6l4xSecw6oi3jl7B9DMCyO8Ah4TIce\nggbCf/Byr7GTRjzOhbbQq0aH4oXbzcIe1y5r/BWAUZPw+xZmIjVd5BsdeHy08w4V\notPCLxWVEdrZySHmM0MFzIBQSZVdiVv38XfHfKcCgYEAnrUeRivmF7/FgWQL/2vl\nNMuh0+A1MeTJ66rvGiz2uKWGYxbiAkqeji635G2f9swGWYa8HPInvlfDdwL3f8Sp\naKt03EfATt7EDOcHQTApHLRHX+gNRut3CWo++ccm2HpCq50oUsRS2ngvNL6RI31q\nXs4L70IADpk1tqXJ+YizuUU=\n-----END PRIVATE KEY-----\n",
-  "client_email": "google-enhance@boxwood-bliss-378006.iam.gserviceaccount.com",
-  "client_id": "115859700558192876894",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-enhance%40boxwood-bliss-378006.iam.gserviceaccount.com"
+  "client_x509_cert_url": ""
 }

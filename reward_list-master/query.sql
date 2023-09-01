@@ -1,0 +1,1 @@
+EXEC AI_DB.dbo.uspBatAwardList

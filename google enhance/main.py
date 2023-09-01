@@ -8,7 +8,7 @@ data = con.get_data_from_sql()
 
 # write data to google sheet
 num=len(data)+1+3
-write_Gsheet.clean_sheet("1pUnaOytU0yJ_M0ejBjz0TpcwWrSyWe-aeuaBdVS3438",f'A4:F50000',{})
-write_Gsheet.update_values("1pUnaOytU0yJ_M0ejBjz0TpcwWrSyWe-aeuaBdVS3438",
+write_Gsheet.clean_sheet("[google sheet ID]",f'A4:F50000',{})
+write_Gsheet.update_values("[google sheet ID]",
                 f'A4:F{num}', "USER_ENTERED",
                 data.values.tolist())
